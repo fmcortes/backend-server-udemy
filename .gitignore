@@ -6,3 +6,5 @@ node_modules/
 *.png
 *.svg
 *.ico
+
+google-signing-demo/node_modules
